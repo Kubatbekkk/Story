@@ -1,0 +1,11 @@
+[33mcommit 1fc71b6f5b727fa1e578af01459feb8535b43a8a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Kubat <kubineccastro@gmail.com>
+Date:   Fri Dec 25 21:30:01 2020 +0600
+
+    Complete chapter2 and chapter3
+
+[33mcommit 412bc1208c22e7ec6065e1e2ba2012efe21e4a7f[m
+Author: Kubat <kubineccastro@gmail.com>
+Date:   Fri Dec 25 21:22:18 2020 +0600
+
+    Initial Commit
